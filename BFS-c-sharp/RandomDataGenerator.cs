@@ -61,6 +61,6 @@ namespace BFS_c_sharp
         private string GetRandomElement(string[] array)
         {
             return array[rng.Next(array.Length)];
-        }        
+        }
     }
 }
